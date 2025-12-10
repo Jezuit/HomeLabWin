@@ -27,7 +27,7 @@ This project documents the deployment of **Active Directory Domain Services (AD 
 
 ## 📚 Theory vs. Practice (Educational Context)
 
-This lab is heavily inspired by the **"Pasja Informatyki"** networking curriculum. I use this repository to translate theoretical concepts explained in the videos into real-world configurations.
+I use this repository to translate theoretical concepts explained in the videos into real-world configurations.
 
 | Network Concept | Practical Implementation in Lab |
 | :--- | :--- |
@@ -67,7 +67,7 @@ To replicate this setup:
 ## 📝 Latest Learning Log
 *   **:** Initialized repository. Installed Windows Server 2022.
 *   **:** Promoted server to Domain Controller (`dcpromo`).
-*   *(Update this log as you progress!)*
+*   
 
 ---
 
