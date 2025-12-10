@@ -42,12 +42,19 @@ I use this repository to translate theoretical concepts explained in the videos 
 
 HomeLabWin/
 ├── docs/
+
 │   ├── 01-setup/           \# VirtualBox network configuration & OS Installation
+
 │   ├── 02-identity/        \# Active Directory promotion & User Management
+
 │   └── 03-networking/      \# DNS and DHCP configuration notes
+
 ├── scripts/                \# PowerShell automation scripts
+
 ├── theory-notes/           \# My notes based on videos
+
 ├── assets/                 \# Screenshots and diagrams
+
 └── README.md
 
 ## 📸 Network Topology
