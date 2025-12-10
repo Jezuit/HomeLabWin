@@ -50,8 +50,6 @@ HomeLabWin/
 ├── assets/                 \# Screenshots and diagrams
 └── README.md
 
-```
-
 ## 📸 Network Topology
 *(...)*
 
