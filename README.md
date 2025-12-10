@@ -1,8 +1,5 @@
 # 🏰 HomeLabWin: Windows Server 2022 Infrastructure Lab
 
-\!([https://img.shields.io/badge/Status-Active-success](https://www.google.com/search?q=https://img.shields.io/badge/Status-Active-success))
-\!([https://img.shields.io/badge/OS-Windows%20Server%202022-orange](https://www.google.com/search?q=https://img.shields.io/badge/OS-Windows%2520Server%25202022-orange))
-
 ## 📖 Project Overview
 
 **HomeLabWin** is a documentation repository for my personal virtualization lab. The primary goal of this project is to simulate a corporate IT environment to bridge the gap between theoretical networking knowledge and practical system administration skills.
