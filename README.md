@@ -72,5 +72,5 @@ To replicate this setup:
 ---
 
 ## 📫 Contact
-Created by Karol Jezuit.
+Created by **Karol Jezuit**.
 Connect with me on [LinkedIn](www.linkedin.com/in/karol-jezuit-060b97303).
