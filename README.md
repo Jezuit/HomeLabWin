@@ -46,16 +46,14 @@ HomeLabWin/
 │   ├── 02-identity/        \# Active Directory promotion & User Management
 │   └── 03-networking/      \# DNS and DHCP configuration notes
 ├── scripts/                \# PowerShell automation scripts
-├── theory-notes/           \# My notes based on "Pasja Informatyki" videos
+├── theory-notes/           \# My notes based on videos
 ├── assets/                 \# Screenshots and diagrams
 └── README.md
 
 ```
 
 ## 📸 Network Topology
-*(Place for your Draw.io or hand-drawn diagram showing how your Server connects to the Router/Virtual Switch)*
-
-!(https://via.placeholder.com/600x300?text=Network+Topology+Diagram+Coming+Soon)
+*(...)*
 
 ---
 
@@ -77,4 +75,4 @@ To replicate this setup:
 
 ## 📫 Contact
 Created by ****.
-Connect with me on [LinkedIn](link-do-twojego-profilu).
+Connect with me on [LinkedIn](www.linkedin.com/in/karol-jezuit-060b97303).
